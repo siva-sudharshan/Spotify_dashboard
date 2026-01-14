@@ -20,9 +20,7 @@ This project analyzes Spotify music data to uncover trends in artists, tracks, p
 - Popularity trend over years
 - Audio feature analysis
 - Genre distribution
-
-## 🔗 Power BI Service Link
-(Add your Power BI link here)
+- 
 
 ## 👤 Author
 *Siva Sudharshan*  
